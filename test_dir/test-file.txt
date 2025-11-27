@@ -6,3 +6,6 @@ This is 3rd Line
 
 
 This Line is added in new-feature-branch 
+
+
+This line for bug-fix branch

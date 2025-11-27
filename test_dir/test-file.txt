@@ -12,4 +12,6 @@ This is another remote change
 This line for bug-fix branch
 
 
+This is just fix test-file..............................
+
 This is just last

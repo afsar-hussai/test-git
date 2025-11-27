@@ -2,4 +2,4 @@ Hi This is First Line in test-file
 
 This is another line which i'll not stage and restore
 
-This is another 3rd change
+This is 3rd Line

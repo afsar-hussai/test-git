@@ -12,4 +12,12 @@ This is another remote change
 This line for bug-fix branch
 
 
+This is just fix test-file..............................
+
 This is just last
+This is last line ####
+
+
+
+
+This is new last line

@@ -7,3 +7,6 @@ This is third line
 This Line is added in new-feature-branch in test2
 
 This is remote test2
+
+
+this is test 2 last line

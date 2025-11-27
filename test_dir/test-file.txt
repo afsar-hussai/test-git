@@ -12,4 +12,4 @@ This is another remote change
 This line for bug-fix branch
 
 
-This is local @@@@
+This is just last
